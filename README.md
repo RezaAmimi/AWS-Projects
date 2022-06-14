@@ -45,4 +45,4 @@
 ![44](https://github.com/RezaAmimi/AWS-Projects/blob/main/AWS%20Projects/AWS%20Database%20Management%20and%20Analytics%20with%20Ec2%2C%20S3%2C%20Redshift/44.png)
 ![45](https://github.com/RezaAmimi/AWS-Projects/blob/main/AWS%20Projects/AWS%20Database%20Management%20and%20Analytics%20with%20Ec2%2C%20S3%2C%20Redshift/45.png)
 ![46](https://github.com/RezaAmimi/AWS-Projects/blob/main/AWS%20Projects/AWS%20Database%20Management%20and%20Analytics%20with%20Ec2%2C%20S3%2C%20Redshift/46.png)
-
+.
